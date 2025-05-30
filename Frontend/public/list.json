@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "The Great Gatsby",
+    "price": 10,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "The Great Gatsby"
+  },
+  {
+    "id": 2,
+    "name": "1984",
+    "price": 0,
+    "category": "Free",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "1984"
+  },
+  {
+    "id": 3,
+    "name": "To Kill a Mockingbird",
+    "price": 12,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "To Kill a Mockingbird"
+  },
+  {
+    "id": 4,
+    "name": "Moby Dick",
+    "price": 20,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Moby Dick"
+  },
+  {
+    "id": 5,
+    "name": "War and Peace",
+    "price": 25,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "War and Peace"
+  },
+  {
+    "id": 6,
+    "name": "Pride and Prejudice",
+    "price": 18,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Pride and Prejudice"
+  },
+  {
+    "id": 7,
+    "name": "The Catcher in the Rye",
+    "price": 14,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "The Catcher in the Rye"
+  },
+  {
+    "id": 8,
+    "name": "The Hobbit",
+    "price": 22,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "The Hobbit"
+  },
+  {
+    "id": 9,
+    "name": "Brave New World",
+    "price": 17,
+    "category": "Paid",
+    "image": "hhttps://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Brave New World"
+  },
+  {
+    "id": 10,
+    "name": "Animal Farm",
+    "price": 13,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Animal Farm"
+  },
+  {
+    "id": 11,
+    "name": "The Alchemist",
+    "price": 0,
+    "category": "Free",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "The Alchemist"
+  },
+  {
+    "id": 12,
+    "name": "Sapiens",
+    "price": 0,
+    "category": "Free",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Sapiens"
+  },
+  {
+    "id": 13,
+    "name": "Thinking, Fast and Slow",
+    "price": 15,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Thinking, Fast and Slow"
+  },
+  {
+    "id": 14,
+    "name": "Educated",
+    "price": 0,
+    "category": "Free",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Educated"
+  },
+  {
+    "id": 15,
+    "name": "Becoming",
+    "price": 18,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Becoming"
+  },
+  {
+    "id": 16,
+    "name": "The Power of Habit",
+    "price": 0,
+    "category": "Free",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "The Power of Habit"
+  },
+  {
+    "id": 17,
+    "name": "Atomic Habits",
+    "price": 20,
+    "category": "Paid",
+    "image": "https://static.vecteezy.com/system/resources/previews/020/951/159/non_2x/book-3d-icon-free-png.png",
+    "title": "Atomic Habits"
+  }
+]
